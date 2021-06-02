@@ -12,6 +12,3 @@ Here are some ideas to get you started:
 - 코드스쿼드 코코아 백엔드 과정 2020/11/02~2020/12/04
 - 코드스쿼드 마스터즈 과정 백엔드 2021/01/04 ~
 
-### 프로젝트
--To do List 게시판 만들기 
-https://www.notion.so/To-do-List-99cdcdf3c6714f69b3ae17e78f1e9f2c
