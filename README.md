@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=95degree">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=95degree">
 
 [![95degree's GitHub stats](https://github-readme-stats.vercel.app/api?username=95degree)](https://github.com/anuraghazra/github-readme-stats)
 
