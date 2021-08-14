@@ -5,9 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-[![95degree's GitHub stats](https://github-readme-stats.vercel.app/api?username=95degree)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=95degree">
+[![95degree's GitHub stats](https://github-readme-stats.vercel.app/api?username=95degree)](https://github.com/anuraghazra/github-readme-stats) <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=95degree">
 
 - 아주대학교 교통시스템공학과 4학년 재학중
 
