@@ -1,4 +1,4 @@
-### 백엔드 개발자 지망생 👋
+### 백엔드 개발자 👋
 
 <!--
 **95degree/95degree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
